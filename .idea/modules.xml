@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/bootcamps_java_song.iml" filepath="$PROJECT_DIR$/.idea/bootcamps_java_song.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/ejercicio-song.iml" filepath="$PROJECT_DIR$/.idea/ejercicio-song.iml" />
+>>>>>>> a22abf543300642d6aa956df96784c76a4a09f49
     </modules>
   </component>
 </project>
